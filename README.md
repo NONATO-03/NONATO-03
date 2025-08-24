@@ -1,11 +1,16 @@
-## Prazer, me chamo Vitor! Estudante de Engenharia da Computação! 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+## Prazer, me chamo Vitor Nonato, sou estudante de Engenharia da Computação
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="C" height="30" width="40" src="https://https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/sql/sql.png">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:vitornn32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.https://www.linkedin.com/in/vitor-n-9441932b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-## Estatísticas do GitHub
-![NONATO-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONATO-03&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NONATO-03&layout=compact&theme=radical)
