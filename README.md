@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oiii, eu sou o Vitor! 👋
 
-<!--
-**NONATO-03/NONATO-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação e apaixonado por tecnologia e programação.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas linguagens favoritas
+- JavaScript
+- TypeScript
+- Python
+- C/C++
+- HTML & CSS
+
+---
+
+## Estatísticas do GitHub
+![NONATO-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONATO-03&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NONATO-03&layout=compact&theme=radical)
+
+---
+
+## Projetos
+- [Projeto 1](link)
+- [Projeto 2](link)
+
+---
+
+✨ Sempre aprendendo e evoluindo!
