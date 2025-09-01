@@ -1,4 +1,6 @@
-## Prazer, me chamo Vitor Nonato, sou estudante de Engenharia da Computação
+## Prazer, me chamo Vitor Nonato, sou estudante de Engenharia da Computação.
+
+Escolhi me especializar em Python. Atualmente, estou programando em python somente para repositórios no git.
 
 <table align="center" style="vertical-align: top; text-align: center;">
   <tr>
