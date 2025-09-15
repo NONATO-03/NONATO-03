@@ -37,11 +37,3 @@ adaptar a novas ferramentas e metodologias.
     <code>Python</code>
   </p>
 </div>
-
----
-
-## Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor-blue?logo=linkedin&style=for-the-badge)](https://www.https://www.linkedin.com/in/vitor-n-9441932b1/)
-
----
