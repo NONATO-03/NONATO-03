@@ -1,14 +1,10 @@
 # Vitor Nonato Nascimento
-
-```py
-print("Olá, mundo! Me chamo Vitor!!!")
-```
-
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
-Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, apaixonado por tecnologia e resolução de problemas. Estou sempre em busca de novos conhecimentos para me desenvolver como profissional;
+Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
+adaptar a novas ferramentas e metodologias.
 
 🌱 Atualmente estou aprendendo mais sobre python;
 
@@ -32,16 +28,16 @@ Sou um estudante de Engenharia da Computação no Centro Universitário Fundaç�
 
 ---
 
-###  Projeto em Destaque
+## Projeto em Destaque
 
 <div align="center">
   <a href="https://github.com/NONATO-03/ping-pong">
-    <img src="https://raw.githubusercontent.com/NONATO-03/ping-pong/main/ping-pong-gif.gif" alt="Animação do jogo Ping Pong" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=ping-pong&theme=gotham" alt="Ping Pong" />
   </a>
+  
   <p>
-    <b>🏓 Ping-Pong — O famoso jogo clássico!</b><br>
-    Desenvolvido utilizando a biblioteca Pygame.
-    <br>
+    <b>Ping-Pong — O famoso jogo retro!</b><br>
+    Desenvolvido utilizando a biblioteca <code>Pygame</code>.<br>
     <code>Python</code>
   </p>
 </div>
