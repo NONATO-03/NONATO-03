@@ -1,8 +1,4 @@
 # Vitor Nonato Nascimento
----
-
-## Sobre mim
-
 Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
 adaptar a novas ferramentas e metodologias.
 
