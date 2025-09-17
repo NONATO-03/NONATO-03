@@ -19,21 +19,38 @@ adaptar a novas ferramentas e metodologias.
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="40" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="40" />
 
 </div>
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/NONATO-03/ping-pong">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=ping-pong&theme=gotham" alt="Ping Pong" />
-  </a>
-  
-  <p>
-    <b>Ping-Pong — O famoso jogo retro!</b><br>
-    Desenvolvido utilizando a biblioteca <code>Pygame</code>.<br>
-    <code>Python</code>
-  </p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NONATO-03/dashboard-python-policiais">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=dashboard-python-policiais&theme=gotham" alt="Dashboard de Análise Policial" />
+      </a>
+      <p>
+        <b>Dashboard de Análise Policial</b><br>
+        Dashboard interativo com <code>Flask</code> e <code>Pandas</code>.<br>
+        <code>Python</code> <code>Flask</code> <code>Pandas</code>
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NONATO-03/ping-pong">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=ping-pong&theme=gotham" alt="Ping Pong" />
+      </a>
+      <p>
+        <b>Ping-Pong — O famoso jogo retro!</b><br>
+        Desenvolvido utilizando a biblioteca <code>Pygame</code>.<br>
+        <code>Python</code>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
