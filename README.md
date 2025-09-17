@@ -30,17 +30,7 @@ adaptar a novas ferramentas e metodologias.
 
 <div align="center">
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/NONATO-03/dashboard-python-policiais">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=dashboard-python-policiais&theme=gotham" alt="Dashboard de Análise Policial" />
       </a>
-      <p>
-        <b>Dashboard de Análise Policial</b><br>
-        Dashboard interativo com <code>Flask</code> e <code>Pandas</code>.<br>
-        <code>Python</code> <code>Flask</code> <code>Pandas</code>
-      </p>
-    </td>
     <td align="center">
       <a href="https://github.com/NONATO-03/ping-pong">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=ping-pong&theme=gotham" alt="Ping Pong" />
