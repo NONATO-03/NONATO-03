@@ -21,6 +21,8 @@ adaptar a novas ferramentas e metodologias.
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="40" />
 
 </div>
 
