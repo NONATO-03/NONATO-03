@@ -2,10 +2,6 @@
 Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
 adaptar a novas ferramentas e metodologias.
 
-🌱 Atualmente estou aprendendo mais sobre python;
-
-💬 Meu principal interesse é ciência de dados;
-
 ---
 
 ## Ferramentas
