@@ -2,7 +2,7 @@
 Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
 adaptar a novas ferramentas e metodologias.
 
-Atualmente estou estudando sobre análise e infraestrutura de dados, com o objetivo de aprimorar meus conhecimentos em python, sql e ferramentas de BI
+Atualmente estou estudando sobre desenvolvimento de sistemas
 
 ---
 
