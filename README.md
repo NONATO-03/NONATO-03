@@ -2,11 +2,11 @@
 Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
 adaptar a novas ferramentas e metodologias.
 
-Atualmente estou estudando sobre desenvolvimento de sistemas
+Atualmente estou estudando sobre C# e .NET
 
 ---
 
-## Interesses
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -19,13 +19,13 @@ Atualmente estou estudando sobre desenvolvimento de sistemas
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="40" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="power bi logo" />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  />
   
 
 </div>
@@ -36,15 +36,15 @@ Atualmente estou estudando sobre desenvolvimento de sistemas
 
 <div align="center">
 <table>
-      </a>
+  <tr>
     <td align="center">
-      <a href="https://github.com/NONATO-03/dashboard-marketing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=dashboard-marketing&theme=gotham" alt="Dashboard Marketing" />
+      <a href="https://github.com/NONATO-03/drinks-api-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NONATO-03&repo=drinks-api-cli&theme=gotham" alt="Drinks API CLI" />
       </a>
       <p>
-        <b>Dashboard Marketing</b><br>
-        Dashboard que usa um algoritmo de identificação de padrões.<br>
-        <code>Python</code> <code>Power BI</code>
+        <b>Drinks API CLI</b><br>
+        App de console em C# / .NET para navegar por um catálogo de drinks usando a API do TheCocktailDB<br>
+        <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  /> <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"/>
       </p>
     </td>
   </tr>
