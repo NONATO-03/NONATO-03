@@ -4,7 +4,7 @@ adaptar a novas ferramentas e metodologias.
 
 Durante minha experiência profissional desenvolvi soluções de automação focadas em produtividade e economia de tempo <img src="https://skillicons.dev/icons?i=js" height="20" alt="js"  /> para minha equipe. Minha experiência prática vai desde a criação de rotinas inteligentes no Google Sheets até a construção de integrações com APIs de sistemas corporativos, como o AODocs.
 
-#### 🌱Atualmente estou estudando sobre <img src="https://skillicons.dev/icons?i=cs" height="20" alt="cs logo"  /> e <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dotnet"  />
+### 🌱Atualmente estou estudando sobre <img src="https://skillicons.dev/icons?i=cs" height="20" alt="cs logo"  /> e <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dotnet"  />
 
 ---
 
