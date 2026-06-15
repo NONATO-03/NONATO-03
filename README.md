@@ -20,6 +20,12 @@ Atualmente estou estudando sobre desenvolvimento de sistemas
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="40" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="power bi logo" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  />
   
 
 </div>
