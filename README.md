@@ -2,7 +2,9 @@
 Sou um estudante de Engenharia da Computação no Centro Universitário Fundação Santo André, interessado e disposto para aprender e me
 adaptar a novas ferramentas e metodologias.
 
-Atualmente estou estudando sobre C# e .NET
+Durante minha experiência profissional desenvolvi soluções de automação focadas em produtividade e economia de tempo <img src="https://skillicons.dev/icons?i=js" height="20" alt="js"  /> para minha equipe. Minha experiência prática vai desde a criação de rotinas inteligentes no Google Sheets até a construção de integrações com APIs de sistemas corporativos, como o AODocs.
+
+#### 🌱Atualmente estou estudando sobre <img src="https://skillicons.dev/icons?i=cs" height="20" alt="cs logo"  /> e <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dotnet"  />
 
 ---
 
@@ -17,8 +19,6 @@ Atualmente estou estudando sobre C# e .NET
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -26,6 +26,8 @@ Atualmente estou estudando sobre C# e .NET
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js"  />
   
 
 </div>
@@ -44,7 +46,7 @@ Atualmente estou estudando sobre C# e .NET
       <p>
         <b>Drinks API CLI</b><br>
         App de console em C# / .NET para navegar por um catálogo de drinks usando a API do TheCocktailDB<br>
-        <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  /> <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"/>
+        <img src="https://skillicons.dev/icons?i=cs" height="20" alt="cs logo"  /> <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dotnet"/>
       </p>
     </td>
   </tr>
