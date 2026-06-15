@@ -34,7 +34,7 @@ Durante minha experiência profissional desenvolvi soluções de automação foc
 
 ---
 
-## Projetos em Destaque
+## Projeto em Destaque
 
 <div align="center">
 <table>
